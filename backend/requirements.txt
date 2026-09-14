@@ -2,8 +2,8 @@ Flask
 flask-cors
 Flask-MySQLdb
 gunicorn
-joblib
-pandas
-numpy
-scikit-learn
-xgboost
+joblib==1.5.2
+pandas==2.3.3
+numpy==1.26.4
+scikit-learn==1.7.2
+xgboost==3.2.0
