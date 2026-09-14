@@ -1,0 +1,10 @@
+Flask
+flask-cors
+Flask-MySQLdb
+gunicorn
+joblib
+pandas
+numpy
+scikit-learn
+xgboost
+os
